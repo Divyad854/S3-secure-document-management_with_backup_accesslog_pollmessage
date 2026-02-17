@@ -78,6 +78,3 @@ Since this is an infrastructure-based project, functionality is verified through
 - All resources were created under AWS Free Tier with minimal usage.
 
 ---
-
-## Author
-Divya Ghori
