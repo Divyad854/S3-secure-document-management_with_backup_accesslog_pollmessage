@@ -1,4 +1,4 @@
-# Secure Document Management System using AWS S3
+# Document Management System with backups and messages using AWS S3
 
 ## Overview
 This project demonstrates an enterprise-grade, serverless document management system built using Amazon S3.  
