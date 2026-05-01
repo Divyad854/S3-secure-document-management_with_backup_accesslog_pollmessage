@@ -10,6 +10,7 @@ The solution focuses on security, durability, auditability, and event-driven des
 - Amazon S3 (Static Website Hosting, Versioning, Encryption)
 - S3 Cross-Region Replication
 - S3 Server Access Logging
+- SQS Event-driven notifications
 - IAM Roles and Bucket Policies
 
 ---
